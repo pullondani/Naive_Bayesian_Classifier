@@ -4,7 +4,7 @@
 Please ensure that all three files are within the same directory 
 and then run:
 
-python3 ./naive_bayesian.py ./spamLabelled.dat ./spamUnlabelled.dat
+> python3 ./naive_bayesian.py ./spamLabelled.dat ./spamUnlabelled.dat
 
 ## Background
 Runs a Naive Bayesian Classifier on a data set of features that match to the appearance of features in spam
