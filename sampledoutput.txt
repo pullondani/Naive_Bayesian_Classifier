@@ -1,0 +1,108 @@
+Feature #0
+P(f|Spam) 0.6666666666666666            P(not f|Spam) 0.33333333333333337
+P(f|NotSpam) 0.35570469798657717        P(not f|Spam) 0.6442953020134228
+---------------------------------
+Feature #1
+P(f|Spam) 0.5882352941176471            P(not f|Spam) 0.4117647058823529
+P(f|NotSpam) 0.5771812080536913         P(not f|Spam) 0.42281879194630867
+---------------------------------
+Feature #2
+P(f|Spam) 0.45098039215686275           P(not f|Spam) 0.5490196078431373
+P(f|NotSpam) 0.3422818791946309         P(not f|Spam) 0.6577181208053691
+---------------------------------
+Feature #3
+P(f|Spam) 0.6078431372549019            P(not f|Spam) 0.3921568627450981
+P(f|NotSpam) 0.3959731543624161         P(not f|Spam) 0.6040268456375839
+---------------------------------
+Feature #4
+P(f|Spam) 0.49019607843137253           P(not f|Spam) 0.5098039215686274
+P(f|NotSpam) 0.33557046979865773        P(not f|Spam) 0.6644295302013423
+---------------------------------
+Feature #5
+P(f|Spam) 0.35294117647058826           P(not f|Spam) 0.6470588235294117
+P(f|NotSpam) 0.4697986577181208         P(not f|Spam) 0.5302013422818792
+---------------------------------
+Feature #6
+P(f|Spam) 0.7843137254901961            P(not f|Spam) 0.21568627450980393
+P(f|NotSpam) 0.5033557046979866         P(not f|Spam) 0.49664429530201337
+---------------------------------
+Feature #7
+P(f|Spam) 0.7647058823529411            P(not f|Spam) 0.23529411764705888
+P(f|NotSpam) 0.348993288590604  P(not f|Spam) 0.651006711409396
+---------------------------------
+Feature #8
+P(f|Spam) 0.3333333333333333            P(not f|Spam) 0.6666666666666667
+P(f|NotSpam) 0.24161073825503357        P(not f|Spam) 0.7583892617449665
+---------------------------------
+Feature #9
+P(f|Spam) 0.6666666666666666            P(not f|Spam) 0.33333333333333337
+P(f|NotSpam) 0.28859060402684567        P(not f|Spam) 0.7114093959731543
+---------------------------------
+Feature #10
+P(f|Spam) 0.6666666666666666            P(not f|Spam) 0.33333333333333337
+P(f|NotSpam) 0.5838926174496645         P(not f|Spam) 0.4161073825503355
+---------------------------------
+Feature #11
+P(f|Spam) 0.7843137254901961            P(not f|Spam) 0.21568627450980393
+P(f|NotSpam) 0.33557046979865773        P(not f|Spam) 0.6644295302013423
+---------------------------------
+Instance # 0
+Email is:        Not spam
+Result:          0
+Spam score:      3.0202448743873976e-06
+Not Spam score:  0.0004620049715764377
+--------------------
+Instance # 1
+Email is:        Spam
+Result:          1
+Spam score:      5.514097676197846e-05
+Not Spam score:  4.085563593057941e-05
+--------------------
+Instance # 2
+Email is:        Spam
+Result:          1
+Spam score:      0.00018644455371759415
+Not Spam score:  0.00012776774190121574
+--------------------
+Instance # 3
+Email is:        Not spam
+Result:          0
+Spam score:      5.235091115604821e-06
+Not Spam score:  0.00060379547625967
+--------------------
+Instance # 4
+Email is:        Not spam
+Result:          0
+Spam score:      5.8639819314404616e-05
+Not Spam score:  9.1344989792938e-05
+--------------------
+Instance # 5
+Email is:        Spam
+Result:          1
+Spam score:      5.593336611527825e-05
+Not Spam score:  4.531325026841301e-05
+--------------------
+Instance # 6
+Email is:        Not spam
+Result:          0
+Spam score:      3.4355285446156644e-06
+Not Spam score:  0.00032863644196655097
+--------------------
+Instance # 7
+Email is:        Not spam
+Result:          0
+Spam score:      6.190253957422102e-05
+Not Spam score:  0.000394042831483371
+--------------------
+Instance # 8
+Email is:        Spam
+Result:          1
+Spam score:      0.00018644455371759415
+Not Spam score:  3.6936543039323476e-05
+--------------------
+Instance # 9
+Email is:        Not spam
+Result:          0
+Spam score:      2.0416855350858795e-05
+Not Spam score:  0.0006881308235775479
+--------------------
